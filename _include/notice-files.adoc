@@ -1,0 +1,9 @@
+= 
+:allow-uri-read: 
+
+
+* https://docs.netapp.com/us-en/workload-family/media/workload-factory-notice.pdf["Fábrica da carga de trabalho"^]
+* https://docs.netapp.com/us-en/workload-family/media/workload-factory-databases-notice.pdf["Fábrica da carga de trabalho para bancos de dados"^]
+* https://docs.netapp.com/us-en/workload-family/media/workload-factory-genai-notice.pdf["Fábrica de carga de trabalho para GenAI"^]
+* https://docs.netapp.com/us-en/workload-family/media/workload-factory-vmware-notice.pdf["Fábrica de carga de trabalho para VMware"^]
+
