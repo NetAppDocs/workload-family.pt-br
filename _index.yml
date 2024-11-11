@@ -1,16 +1,16 @@
 ---
 product-family:
-  title: Fábrica de carga de trabalho do BlueXP  para documentação da AWS
-  lead: O BlueXP  Workload Factory para AWS é uma poderosa plataforma de gerenciamento
-    de ciclo de vida projetada para ajudá-lo a otimizar suas cargas de trabalho usando
+  title: Documentação de fábrica do workload do BlueXP 
+  lead: O BlueXP  Workload Factory é uma poderosa plataforma de gerenciamento de ciclo
+    de vida projetada para ajudá-lo a otimizar suas cargas de trabalho usando o Amazon
+    FSX for NetApp ONTAP. Navegue na documentação por tipo de carga de trabalho ou
+    use a barra de pesquisa para encontrar conteúdo em qualquer lugar nos documentos
+    de fábrica da carga de trabalho.
+  summary: O BlueXP  Workload Factory é uma poderosa plataforma de gerenciamento de
+    ciclo de vida projetada para ajudá-lo a otimizar suas cargas de trabalho usando
     o Amazon FSX for NetApp ONTAP. Navegue na documentação por tipo de carga de trabalho
     ou use a barra de pesquisa para encontrar conteúdo em qualquer lugar nos documentos
-    do Workload Factory.
-  summary: O BlueXP  Workload Factory para AWS é uma poderosa plataforma de gerenciamento
-    de ciclo de vida projetada para ajudá-lo a otimizar suas cargas de trabalho usando
-    o Amazon FSX for NetApp ONTAP. Navegue na documentação por tipo de carga de trabalho
-    ou use a barra de pesquisa para encontrar conteúdo em qualquer lugar nos documentos
-    do Workload Factory.
+    de fábrica da carga de trabalho.
   sidebarlinks:
   - title: Tudo
     tags: all
@@ -27,15 +27,15 @@ product-family:
   - title: Configuração e administração
     icon: "./media/icon-admin.png"
     url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
-    summary: Saiba como começar a usar o Workload Factory, administrar credenciais
-      e usar o Codebox para automação.
+    summary: Saiba como começar a usar a fábrica de carga de trabalho, administrar
+      credenciais e usar o Codebox para automação.
     tags: all,admin
   - title: Notas de lançamento
     icon: "./media/icon-docs.png"
     url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
-    summary: Saiba o que há de novo em todo o Workload Factory.
+    summary: Saiba o que há de novo em toda a fábrica de carga de trabalho.
     tags: all
-  - title: Amazon FSX para NetApp ONTAP
+  - title: Armazenamento
     icon: "./media/icon-storage.png"
     url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
     summary: Implante e gerencie os sistemas de arquivos FSX for ONTAP para usar todos
@@ -44,9 +44,9 @@ product-family:
   - title: API
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
-    summary: Administre programaticamente os recursos do Workload Factory.
+    summary: Administre programaticamente os recursos de fábrica da carga de trabalho.
     tags: all,api
-  - title: Workloads de banco de dados
+  - title: Bancos de dados
     icon: "./media/icon-database.png"
     url: https://docs.netapp.com/us-en/workload-databases/index.html
     summary: Implante bancos de dados de ponta a ponta com as melhores práticas incorporadas
@@ -59,7 +59,7 @@ product-family:
     summary: Integre dados de seus sistemas de arquivos FSX for ONTAP com suas plataformas
       MLOps e modelos de base GenAI para criar chatbots funcionais.
     tags: all,workload
-  - title: Workloads da VMware
+  - title: VMware
     icon: "./media/icon-vmware.png"
     url: https://docs.netapp.com/us-en/workload-vmware/index.html
     summary: Simplifique as migrações de ambientes vSphere locais para o VMware Cloud
