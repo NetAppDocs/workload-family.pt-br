@@ -2,4 +2,4 @@
 :allow-uri-read: 
 
 
-https://docs.netapp.com/us-en/workload-family/media/workload-factory-notice.pdf["Carga de trabalho de fábrica da BlueXP"^]
+https://docs.netapp.com/us-en/workload-family/media/workload-factory-notice.pdf["Fábrica de carga de trabalho da NetApp"^]

@@ -2,7 +2,6 @@
 <blocks>
   <block id="6a7b2c9c4cec65ad972b108fa0a1192b" category="doc">Obtenha suporte para o FSX for ONTAP</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX para ONTAP</block>
-  <block id="9d06990508d25d367d9158c6558eb9c8" category="paragraph"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="35f9849ffdd809bda11d0fc56e1e3583" category="paragraph">Para receber suporte técnico específico para o Workload Factory e suas soluções e serviços de armazenamento, use as opções de suporte descritas abaixo.</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Use opções de suporte autônomo</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Estas opções estão disponíveis gratuitamente, 24 horas por dia, 7 dias por semana:</block>
@@ -16,7 +15,6 @@
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Antes de começar</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">Saiba como se inscrever para obter suporte</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Passos</block>
-  <block id="aadd86a3fadf19221852692c6e4adc2f" category="paragraph">A seleção dessa opção abre o console do BlueXP  uma nova guia do navegador e carrega o painel suporte.</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">Na página *recursos*, escolha uma das opções disponíveis em suporte técnico:</block>
   <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Selecione *Ligue para nós* se quiser falar com alguém no telefone. Você será direcionado para uma página no NetApp.com que lista os números de telefone que você pode ligar.</block>
   <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">Selecione *criar um caso* para abrir um ticket com um especialista em suporte da NetApp:</block>
@@ -34,12 +32,10 @@
   <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">Para obter um histórico de seus casos de suporte, você pode selecionar *Configurações &gt; linha do tempo* e procurar ações chamadas "criar caso de suporte". Um botão à direita permite expandir a ação para ver detalhes.</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">É possível que você encontre a seguinte mensagem de erro ao tentar criar um caso:</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"Você não está autorizado a criar um caso contra o serviço selecionado"</block>
-  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Esse erro pode significar que a conta NSS e a empresa de Registro com a qual está associada não são a mesma empresa de Registro para o número de série da conta BlueXP  (ou seja. 960xxxx) ou o número de série do ambiente de trabalho. Pode procurar assistência utilizando uma das seguintes opções:</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Use o chat no produto</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Envie um caso não técnico em<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
   <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">Gerenciar seus casos de suporte (prévia)</block>
-  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">Você pode visualizar e gerenciar casos de suporte ativos e resolvidos diretamente do BlueXP . Você pode gerenciar os casos associados à sua conta NSS e à sua empresa.</block>
   <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">O gerenciamento de casos está disponível como uma prévia. Planejamos refinar essa experiência e adicionar melhorias nos próximos lançamentos. Por favor, envie-nos feedback usando o chat no produto.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Observe o seguinte:</block>
   <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">O painel de gerenciamento de casos na parte superior da página oferece duas visualizações:</block>
@@ -49,8 +45,6 @@
   <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">Você pode adicionar ou remover colunas de interesse e pode filtrar o conteúdo de colunas como prioridade e Status. Outras colunas fornecem apenas capacidades de ordenação.</block>
   <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Veja os passos abaixo para obter mais detalhes.</block>
   <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">Em um nível por caso, oferecemos a capacidade de atualizar notas de caso ou fechar um caso que ainda não esteja no status fechado ou pendente fechado.</block>
-  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">Selecione *Gerenciamento de casos* e, se for solicitado, adicione sua conta NSS ao BlueXP .</block>
-  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">A página *Gerenciamento de casos* mostra casos abertos relacionados à conta NSS associada à conta de usuário do BlueXP . Esta é a mesma conta NSS que aparece na parte superior da página *NSS Management*.</block>
   <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Opcionalmente, modifique as informações exibidas na tabela:</block>
   <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">Em *casos da organização*, selecione *Exibir* para ver todos os casos associados à sua empresa.</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">Modifique o intervalo de datas escolhendo um intervalo de datas exato ou escolhendo um intervalo de tempo diferente.</block>
@@ -71,27 +65,18 @@
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Uma captura de tela que mostra as ações que você pode realizar depois de selecionar o menu na última coluna da tabela.</block>
   <block id="6f7cf78e14aa346236a87d9541221fb2" category="paragraph"><block ref="6f7cf78e14aa346236a87d9541221fb2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">Visão geral do Registro de suporte</block>
-  <block id="d7e4bb081bf4ec4814d83edcfbdb8b96" category="paragraph">Registrar sua assinatura de suporte da ID da conta (seu número de série 960xxxxxxxxx de 20 dígitos localizado na página recursos de suporte no BlueXP ) serve como seu único ID de assinatura de suporte. Cada assinatura de suporte no nível de conta do BlueXP  deve ser registrada.</block>
-  <block id="f9e05c2b383e3f11e3b4bebbe8952225" category="paragraph">O Registro permite recursos como abertura de tickets de suporte e geração automática de casos. O Registro é concluído adicionando contas do site de suporte da NetApp (NSS) ao BlueXP , conforme descrito abaixo.</block>
   <block id="856edc4caec68fece6859c4be9360f3c" category="section-title">Registe a sua conta para obter assistência NetApp</block>
-  <block id="2d6573b6ae4c51dc24e58109473f2490" category="paragraph">Para se Registrar para obter suporte e ativar o direito de suporte, um usuário em sua conta deve associar uma conta do site de suporte da NetApp ao login do BlueXP . A forma como você se Registra no suporte da NetApp depende se você já tem uma conta do site de suporte da NetApp (NSS).</block>
   <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">Cliente existente com uma conta NSS</block>
-  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">Se você é um cliente da NetApp com uma conta NSS, você simplesmente precisa se Registrar para obter suporte através do BlueXP .</block>
-  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">No canto superior direito do console BlueXP , selecione o ícone Configurações e selecione *credenciais*.</block>
   <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">Selecione *credenciais do usuário*.</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Selecione *Adicionar credenciais NSS* e siga o prompt de autenticação do site de suporte da NetApp (NSS).</block>
   <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">Para confirmar que o processo de Registro foi bem-sucedido, selecione o ícone Ajuda e selecione *suporte*.</block>
   <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">A página *recursos* deve mostrar que sua conta está registrada para suporte.</block>
   <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">Uma captura de tela que mostra um número de série de conta e uma caixa de seleção verde e o texto registrado para suporte.</block>
   <block id="fa7897454f637026faa3e00ccbfec239" category="paragraph"><block ref="fa7897454f637026faa3e00ccbfec239" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="d9a01bdcfab6f0a10fc126999b4d5988" category="paragraph">Observe que outros usuários do BlueXP  não verão esse mesmo status de Registro de suporte se não tiverem associado uma conta do site de suporte da NetApp ao login do BlueXP . No entanto, isso não significa que sua conta BlueXP  não esteja registrada para suporte. Desde que um utilizador na conta tenha seguido estes passos, a sua conta foi registada.</block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Cliente existente, mas sem conta NSS</block>
-  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">Se você já é um cliente NetApp com licenças e números de série existentes, mas _no_ conta NSS, você precisa criar uma conta NSS e associá-la ao seu login no BlueXP .</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">Formulário de Registro do usuário do site de suporte da NetApp</block>
   <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">Crie uma conta do site de suporte da NetApp preenchendo o.<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
   <block id="d61c9f72493817776f392db42ac446a2" category="list-text">Certifique-se de selecionar o nível de usuário apropriado, que normalmente é *Cliente NetApp/Usuário final*.</block>
-  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">Certifique-se de copiar o número de série da conta BlueXP  (960xxxx) usado acima para o campo de número de série. Isto irá acelerar o processamento da conta.</block>
-  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">Associe a sua nova conta NSS ao seu login no BlueXP  executando as etapas em <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Novo na NetApp</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Se você é novo no NetApp e não tem uma conta NSS, siga cada passo abaixo.</block>
   <block id="f5d7029ed18f998c0a9d780b2554e538" category="list-text">Localize o número de série da ID da conta na página recursos de suporte.</block>
@@ -107,7 +92,6 @@
   <block id="201080500e946070a2e4873042507c77" category="paragraph">A confirmação envia sua solicitação à NetApp e recomenda que você crie uma conta do site de suporte da NetApp.</block>
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">Certifique-se de copiar o número de série da conta (960xxxx) usado acima para o campo de número de série. Isto irá acelerar o processamento da conta.</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">O NetApp deve entrar em Contato com você durante esse processo. Este é um exercício de integração única para novos usuários.</block>
-  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">Depois de ter sua conta do site de suporte da NetApp, associe a conta ao login do BlueXP , executando as etapas em <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tudo</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Configuração e administração</block>
@@ -119,40 +103,12 @@
   <block id="cccae24691c5ff7191f1ffebe4352285" category="sidebar">GenAI</block>
   <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">Integre dados de seus sistemas de arquivos FSX for ONTAP com suas plataformas MLOps e modelos de base GenAI para criar chatbots funcionais.</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">Simplifique as migrações de ambientes vSphere locais para o VMware Cloud na AWS e implemente sistemas de arquivos FSX para ONTAP personalizados como datastores externos.</block>
-  <block id="deb20d45d08927a387c5a07ceb73a4fd" category="sidebar">O BlueXP  Workload Factory é uma poderosa plataforma de gerenciamento de ciclo de vida projetada para ajudá-lo a otimizar suas cargas de trabalho usando o Amazon FSX for NetApp ONTAP. Navegue na documentação por tipo de carga de trabalho ou use a barra de pesquisa para encontrar conteúdo em qualquer lugar nos documentos de fábrica da carga de trabalho.</block>
-  <block id="a4edad3205a214cb4964ba36c07bc827" category="sidebar">Documentação de fábrica do workload do BlueXP </block>
-  <block id="4e5efe05038ddfebbc5f4ba036445445" category="sidebar">Saiba como começar a usar a fábrica de carga de trabalho, administrar credenciais e usar o Codebox para automação.</block>
-  <block id="a4bf8b7b035c6217aa21804a57d23c82" category="sidebar">Saiba o que há de novo em toda a fábrica de carga de trabalho.</block>
-  <block id="1c54637cbb61ce67644ba6cd76485851" category="sidebar">Administre programaticamente os recursos de fábrica da carga de trabalho.</block>
   <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">Bancos de dados</block>
   <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
-  <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">Toda a documentação de fábrica da carga de trabalho</block>
-  <block id="428b0b39be2352757edeb5f9f12a7bdd" category="inline-link">Carga de trabalho de fábrica da BlueXP</block>
-  <block id="7cf449620aa459bc5c449db69b07e507" category="paragraph"><block ref="7cf449620aa459bc5c449db69b07e507" category="inline-link-rx"></block></block>
   <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">Construtores</block>
   <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">Simplifique o consumo e o acesso de versões de software permitindo a integração instantânea de clones com sistemas de controle de versão e fluxos de CI/CD, economizando tempo e recursos.</block>
-  <block id="b6a4501cc05e54e2e5a513c3b552183a" category="paragraph">A NetApp fornece suporte para a fábrica de workloads da BlueXP  e seus serviços de nuvem de várias maneiras. Amplas opções gratuitas de suporte autônomo estão disponíveis 24 horas por dia, 7 dias por semana, como artigos da base de conhecimento (KB) e um fórum da comunidade. O seu registo de suporte inclui suporte técnico remoto através de Bilheteira na Web.</block>
-  <block id="261966eaf033c38f6934f2c8fc36d79c" category="paragraph">Para obter suporte técnico relacionado ao FSX for ONTAP, sua infraestrutura ou qualquer solução usando o serviço, consulte "obter ajuda" na documentação de fábrica de carga de trabalho desse produto.</block>
-  <block id="5b49df4e58e2a4750acd8bfa8687ccd6" category="paragraph">A documentação de fábrica da carga de trabalho que você está visualizando no momento.</block>
-  <block id="ba51332e265e54eb4295d6e7d057bad8" category="paragraph">PESQUISE na base de conhecimento de fábrica da carga de trabalho para encontrar artigos úteis para solucionar problemas.</block>
-  <block id="fc3e8f3c2017c33d444d483913a485ba" category="paragraph">Junte-se à comunidade de fábrica de carga de trabalho para acompanhar discussões em andamento ou criar novas.</block>
-  <block id="ffa18fada5deeeb1e533786297855e7d" category="paragraph">Para usar o recurso *criar um caso*, primeiro você deve se Registrar para obter suporte. Associe as credenciais do site de suporte da NetApp ao login de fábrica da carga de trabalho. <block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block>.</block>
-  <block id="e13a5649dfef3a1c76c4be8e463226d7" category="list-text">No canto superior direito do console de fábrica da carga de trabalho, selecione *Ajuda &gt; suporte*.</block>
-  <block id="ce638fcfafd4d79a49524062225d7fbc" category="paragraph">O Registro de suporte é necessário para receber suporte técnico específico para a fábrica de workloads da BlueXP  e suas soluções e serviços de storage. Você precisa se Registrar para obter suporte a partir do console BlueXP , que é um console baseado na Web separado da fábrica de workloads.</block>
-  <block id="2cbcc262b0a39ec19c5f69bffccb70fb" category="paragraph">O Registro para suporte não ativa o suporte do NetApp para um serviço de arquivos de provedor de nuvem. Para obter suporte técnico relacionado a um serviço de arquivo de provedor de nuvem, sua infraestrutura ou qualquer solução usando o serviço, consulte "obter ajuda" na documentação de fábrica de carga de trabalho desse produto.</block>
-  <block id="200e3179449390bdf5f3f8d9a199630c" category="doc">Ferramentas para usar o workload de fábrica</block>
-  <block id="b5a374f3f5b31b5057808689d26fe2c4" category="paragraph">Você pode usar a fábrica do workload do BlueXP  com as seguintes ferramentas:</block>
-  <block id="4b50901597179fa075617d96ccf51901" category="list-text">* Console de fábrica de carga de trabalho*: O console de fábrica de carga de trabalho fornece uma visão visual e holística de seus aplicativos e projetos.</block>
-  <block id="590410b3a112ba2f531f9aae44e29ed1" category="list-text">* BlueXP  console*: O console BlueXP  oferece uma experiência de interface híbrida para que você possa usar a carga de trabalho BlueXP  de fábrica junto com outros serviços BlueXP .</block>
-  <block id="62c5120220d244bd5e611d7c4459b5c5" category="list-text">*Pergunte-me*: Use o assistente de inteligência artificial perguntar-me para fazer perguntas e saber mais sobre a fábrica de carga de trabalho sem sair da interface web da fábrica de carga de trabalho. Acesse Pergunte-me no menu de ajuda de fábrica da carga de trabalho.</block>
-  <block id="e234d079cc2fccaeed8041a81e1e8122" category="list-text">*CLI do CloudShell*: A fábrica de carga de trabalho inclui uma CLI do CloudShell para gerenciar e operar ambientes AWS e NetApp em contas a partir de uma única CLI baseada em navegador. Acesse o CloudShell a partir da barra superior do console de fábrica de carga de trabalho.</block>
-  <block id="dfbf98e5a4263fb93c5b851bfc384ae3" category="list-text">*API REST*: Use as APIs REST de fábrica de carga de trabalho para implantar e gerenciar seus sistemas de arquivos FSX for ONTAP e outros recursos da AWS.</block>
-  <block id="57f4ce64453b6cd8aa398c4f88d38c2e" category="list-text">*CloudFormation*: Use o código do AWS CloudFormation para executar as ações definidas no console de fábrica de carga de trabalho para modelar, provisionar e gerenciar recursos da AWS e de terceiros a partir da pilha do CloudFormation em sua conta da AWS.</block>
-  <block id="af06e2a95bd9706f705a4480e8f40846" category="list-text">*Fornecedor de fábrica de carga de trabalho do Terraform BlueXP *: Use o Terraform para criar e gerenciar fluxos de trabalho de infraestrutura gerados no console de fábrica de carga de trabalho.</block>
   <block id="cfd98e00a6e308c04ab9f76a854b6989" category="doc">Monitorizar e monitorizar as operações</block>
-  <block id="3c83889f8bf9dcafe14392fafd21fe54" category="paragraph">Monitore e acompanhe a execução de operações de carga de trabalho e monitore o progresso das tarefas com o Rastreador na fábrica de carga de trabalho do BlueXP .</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">Sobre esta tarefa</block>
-  <block id="2fc2f4d1cfd067d7b3d8b8baa3ccee57" category="paragraph">A fábrica de carga de trabalho fornece o Tracker, um recurso de monitoramento, para que você possa monitorar e acompanhar o andamento e o status das operações de carga de trabalho, analisar detalhes de tarefas e subtarefas operacionais e diagnosticar problemas ou falhas.</block>
   <block id="4a60367cb1382179b571e891381eaf8d" category="paragraph">Várias ações estão disponíveis no Tracker. Você pode filtrar tarefas por período de tempo (últimas 24 horas, 7 dias, 14 dias ou 30 dias), carga de trabalho, status e usuário; encontrar trabalhos usando a função de pesquisa; e fazer download da tabela de tarefas como um arquivo CSV. Você pode atualizar o Rastreador a qualquer momento e tentar novamente rapidamente uma operação com falha ou editar parâmetros para uma operação com falha e tentar a operação novamente.</block>
   <block id="9233b1148f18eb744b69d4d3620c296c" category="paragraph">O Tracker suporta dois níveis de monitoramento, dependendo da operação. Cada tarefa, como a implantação do sistema de arquivos, exibe a descrição da tarefa, status, hora de início, duração da tarefa, usuário, região, recurso proxy, ID da tarefa e todas as subtarefas relacionadas. Você pode visualizar as respostas da API para entender o que aconteceu durante a operação.</block>
   <block id="5cdbeb1c4cc65e8f551e161828701113" category="list-text">Monitore níveis de tarefa com exemplos</block>
@@ -164,27 +120,70 @@
   <block id="a9853b6069302c4152781f48222c3541" category="list-text">A frequência de funcionamento baseia-se no tipo de trabalho e na programação de trabalhos.</block>
   <block id="01b0a4fcc33bdafd6e65537f24f463de" category="list-text">Retenção de eventos</block>
   <block id="b3c382e94f4b4abcc049ce95e85dc998" category="list-text">Os eventos são mantidos na interface do usuário por 30 dias.</block>
-  <block id="c82c26735f08b789c8bf574ab4962fcc" category="paragraph">Acompanhe e monitore operações no BlueXP  com o Rastreador.</block>
   <block id="dcafe9cce796ce855e87b270f0a5af59" category="inline-link-macro">experiências de console</block>
   <block id="e1e54933838bb7ba662301d01c937d2d" category="list-text">Inicie sessão utilizando uma das <block ref="68ceec76279c6913cdee16884c2d813a" category="inline-link-macro-rx"></block>.</block>
-  <block id="f6064bd4c17e4a2a2dcbd96f7ec83891" category="list-text">Na carga de trabalho, selecione o menu Configurações da conta e, em seguida, selecione *Rastreador*.</block>
-  <block id="1c575ed3e5dce0a1d77706830609b278" category="inline-image-macro">Uma captura de tela do menu de configurações da conta com a opção Rastreador realçada.</block>
-  <block id="7478b5abe2869b21138fe88cbd4d66da" category="paragraph"><block ref="7478b5abe2869b21138fe88cbd4d66da" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="e443a93c9da9763cd15656814a7e0c2e" category="list-text">Na guia Rastreador, use os filtros ou a pesquisa para restringir os resultados do trabalho. Também pode transferir um relatório de trabalhos.</block>
   <block id="aa2a2cd452f8a71b2f2dcdae68114732" category="section-title">Exibir solicitação de API</block>
   <block id="68538d555ae12c680ea428aaa850d90f" category="paragraph">Visualize a solicitação de API na caixa de código para uma tarefa no Tracker.</block>
   <block id="968877018213bf42962084001c210472" category="list-text">No Rastreador, selecione uma tarefa.</block>
-  <block id="2e6179b36329b65c38a5ca113ba0c81c" category="list-text">Selecione o menu de três pontos e, em seguida, selecione *View API Request*.</block>
   <block id="1448fba076a066622a9f93a25ab170a2" category="section-title">Tente novamente uma operação com falha</block>
   <block id="89f1070b2ef1ba678a8cb4823fa74cb2" category="paragraph">Tente novamente uma operação com falha no Tracker. Você também pode copiar a mensagem de erro de uma operação com falha.</block>
   <block id="25f39cb1a1fb7c5e04993249b6cabc32" category="admonition">Você pode tentar novamente uma operação com falha até 10 vezes.</block>
   <block id="b866b632b7f32ded2a0a0907100641bf" category="list-text">No Rastreador, selecione uma operação com falha.</block>
-  <block id="5d0eaa0ad00baabb57cbc22969070918" category="list-text">Selecione o menu de três pontos e, em seguida, selecione *Repetir*.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">Resultado</block>
   <block id="121145d60db2324903b129ae74d6c0a9" category="paragraph">A operação é reiniciada.</block>
   <block id="bde5076ae2a993de9042a7e1dd4dc445" category="section-title">Edite e tente novamente uma operação com falha</block>
   <block id="2ae5a8ae85adca2aebf16aa81130c9c5" category="paragraph">Edite os parâmetros da operação com falha e tente novamente a operação fora do Rastreador.</block>
-  <block id="524ab960a72817bd7f9f107dc357d1bd" category="list-text">Selecione o menu de três pontos e, em seguida, selecione *Editar e tentar novamente*.</block>
   <block id="a071e4310b0dbc18ec326c217f47692f" category="paragraph">Você é redirecionado para a página de operação, onde você pode editar os parâmetros e tentar novamente a operação.</block>
   <block id="49814788ce382c87a117a40e54ae858b" category="paragraph">A operação é reiniciada. Aceda a Rastreador para ver o estado da operação.</block>
+  <block id="3c6efe0ce159fb5b8ee4882bcf3ad973" category="paragraph">A NetApp fornece suporte para o Workload Factory e seus serviços de nuvem de diversas maneiras. Há diversas opções gratuitas de autoatendimento disponíveis 24 horas por dia, 7 dias por semana, como artigos da base de conhecimento (KB) e um fórum da comunidade. Seu cadastro no suporte inclui suporte técnico remoto por meio de tickets online.</block>
+  <block id="4435b263dd1a35bcd8dfda050db92b3b" category="paragraph">Para obter suporte técnico relacionado ao FSx for ONTAP, sua infraestrutura ou qualquer solução que use o serviço, consulte "Obter ajuda" na documentação do Workload Factory para esse produto.</block>
+  <block id="359d8b16e442ffaa72e03c95fcd60448" category="paragraph"><block ref="359d8b16e442ffaa72e03c95fcd60448" category="inline-link-macro-rx"></block></block>
+  <block id="d935525f4850c4638cbf48ae53fb4686" category="paragraph">A documentação do Workload Factory que você está visualizando no momento.</block>
+  <block id="ba6274b9c9d1f81bb3a648fa289986b8" category="paragraph">Pesquise na base de conhecimento do Workload Factory para encontrar artigos úteis para solucionar problemas.</block>
+  <block id="7faef90df03399696ba9d4815b37171a" category="paragraph">Junte-se à comunidade do Workload Factory para acompanhar discussões em andamento ou criar novas.</block>
+  <block id="a12ea39ddf1c98adfd7f751299705efa" category="paragraph">Para usar o recurso *Criar um caso*, você deve primeiro se registrar para obter suporte. Associe suas credenciais do site de suporte da NetApp ao seu login do Workload Factory. <block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block> .</block>
+  <block id="356c88ac4b0ec3f7689cc91f54701fef" category="list-text">No canto superior direito do console do Workload Factory, selecione *Ajuda &gt; Suporte*.</block>
+  <block id="6e74b203173a9994c366c7e7a3cf4748" category="paragraph">Selecionar esta opção abre o NetApp Console em uma nova guia do navegador e carrega o painel de Suporte.</block>
+  <block id="3f13dd54818447375c92bf35e0a35f00" category="paragraph">Esse erro pode significar que a conta NSS e a empresa registrada à qual ela está associada não são a mesma empresa registrada para o número de série da conta do NetApp Console (por exemplo, 960xxxx) ou o número de série do sistema. Você pode buscar assistência usando uma das seguintes opções:</block>
+  <block id="289d2ab2d9b0e116790d035921c12b56" category="paragraph">Você pode visualizar e gerenciar casos de suporte ativos e resolvidos diretamente do NetApp Console. Você pode gerenciar os casos associados à sua conta NSS e à sua empresa.</block>
+  <block id="f9a63cd3a07378e169c58addd5fdce8d" category="paragraph">Selecionar esta opção abre o NetApp Console em uma nova guia do navegador e carrega o painel de Suporte.</block>
+  <block id="785b440c0be1d853c5e2f4fb1f1ee2ab" category="list-text">Selecione *Gerenciamento de casos* e, se solicitado, adicione sua conta NSS ao NetApp Console.</block>
+  <block id="c80d8addb8aa8e8872bbc44894b077f3" category="paragraph">A página *Gerenciamento de casos* mostra casos abertos relacionados à conta NSS associada à sua conta de usuário do NetApp Console. Esta é a mesma conta NSS que aparece no topo da página *Gerenciamento NSS*.</block>
+  <block id="4bbb8d481021011f9afb73ca196bfecd" category="doc">Ferramentas para usar o NetApp Workload Factory</block>
+  <block id="227f846d45d01d0f9fb62a784d506d51" category="paragraph">Você pode usar o NetApp Workload Factory com as seguintes ferramentas:</block>
+  <block id="36445dd6e44838348239a5d874596e0d" category="list-text">*Console do Workload Factory*: O console do Workload Factory fornece uma visão visual e holística de seus aplicativos e projetos.</block>
+  <block id="e71fd0837014d1987a939c9af71a3353" category="list-text">* NetApp Console*: O NetApp Console oferece uma experiência de interface híbrida para que você possa usar o Workload Factory junto com outros serviços de dados do NetApp .</block>
+  <block id="38c157d73ba6e13febe98e5199b858c8" category="list-text">*Pergunte-me*: use o assistente de IA Ask me para fazer perguntas e saber mais sobre o Workload Factory sem sair do console do Workload Factory.  Acesse Pergunte-me no menu de ajuda do Workload Factory.</block>
+  <block id="65c95ed5c9f895be6dfa81e8583c86af" category="list-text">*CloudShell CLI*: O Workload Factory inclui um CloudShell CLI para gerenciar e operar ambientes AWS e NetApp em todas as contas a partir de um único CLI baseado em navegador.  Acesse o CloudShell na barra superior do console do Workload Factory.</block>
+  <block id="34904d30d825a389b588efb76a1ceb16" category="list-text">*API REST*: Use as APIs REST do Workload Factory para implantar e gerenciar seu FSx para sistemas de arquivos ONTAP e outros recursos da AWS.</block>
+  <block id="3995165ba76339d9d4d08edf5a17c07c" category="list-text">*CloudFormation*: use o código do AWS CloudFormation para executar as ações definidas no console do Workload Factory para modelar, provisionar e gerenciar recursos da AWS e de terceiros da pilha do CloudFormation na sua conta da AWS.</block>
+  <block id="a1b1209dad1b58c4e66fd68ee5bc0148" category="list-text">*Provedor do Terraform NetApp Workload Factory*: use o Terraform para criar e gerenciar fluxos de trabalho de infraestrutura gerados no console do Workload Factory.</block>
+  <block id="aeb31c9f8c311597856b129ab948b4e6" category="inline-link">Fábrica de carga de trabalho da NetApp</block>
+  <block id="55f7843f27571db97da76bdf68a76d22" category="paragraph"><block ref="55f7843f27571db97da76bdf68a76d22" category="inline-link-rx"></block></block>
+  <block id="3d9b602ae77ac6a4951ca31b05b6b54f" category="paragraph">O registro de suporte é necessário para receber suporte técnico específico para o NetApp Workload Factory e suas soluções e serviços de armazenamento.  Você deve se registrar para obter suporte no NetApp Console, que é um console baseado na Web separado do Workload Factory.</block>
+  <block id="c552970fd4dc8118ba1806da596acad9" category="paragraph">O registro para suporte não habilita o suporte da NetApp para um serviço de arquivo do provedor de nuvem. Para obter suporte técnico relacionado a um serviço de arquivo do provedor de nuvem, sua infraestrutura ou qualquer solução que use o serviço, consulte "Obter ajuda" na documentação do Workload Factory para esse produto.</block>
+  <block id="eb803e55617f13b716b5e56642cce2b0" category="paragraph">O registro da assinatura de suporte do ID da sua conta (seu número de série 960xxxxxxxxx de 20 dígitos localizado na página Recursos de suporte no NetApp Console) serve como seu único ID de assinatura de suporte.  Cada assinatura de suporte em nível de conta da NetApp deve ser registrada.</block>
+  <block id="4cffd3c1dbf2f1038c01d18e7a860305" category="paragraph">O registro habilita recursos como abertura de tickets de suporte e geração automática de casos.  O registro é concluído adicionando contas do NetApp Support Site (NSS) ao NetApp Console, conforme descrito abaixo.</block>
+  <block id="f6c4a3ae75d6616126e6da8310ae7384" category="paragraph">Para se registrar para obter suporte e ativar o direito ao suporte, um usuário em sua conta deve associar uma conta do Site de Suporte NetApp ao login do NetApp Console. A maneira como você se registra para o suporte da NetApp depende se você já tem uma conta no NetApp Support Site (NSS).</block>
+  <block id="f732375b4bc27328f202e3b10a957017" category="paragraph">Se você for um cliente NetApp com uma conta NSS, basta se registrar para receber suporte pelo NetApp Console.</block>
+  <block id="f65aaf10469eac2932fc53c6a37afb71" category="list-text">No menu do NetApp Console, selecione *Administração* e, em seguida, selecione *Credenciais*.</block>
+  <block id="9094354ffd09e4644caa0010edc66d24" category="paragraph">Observe que outros usuários do NetApp Console não verão o mesmo status de registro de suporte se não tiverem associado uma conta do NetApp Support Site ao login do NetApp Console.  No entanto, isso não significa que sua conta NetApp não esteja registrada para suporte.  Desde que um usuário na conta tenha seguido essas etapas, sua conta foi registrada.</block>
+  <block id="a8f62b208e5177a219f0b0d4ce88e0a9" category="paragraph">Se você já for um cliente da NetApp com licenças e números de série, mas _nenhuma_ conta NSS, será necessário criar uma conta NSS e associá-la ao seu login do NetApp Console.</block>
+  <block id="fb9b6bbcab5fb396a13f67594a0ba1ee" category="list-text">Certifique-se de copiar o número de série da conta NetApp (960xxxx) usado acima para o campo de número de série. Isso acelerará o processamento da conta.</block>
+  <block id="40eff8559acd41057187b6cb11fa1919" category="list-text">Associe sua nova conta NSS ao login do NetApp Console concluindo as etapas em<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="f335678326583cea28377216c5515221" category="paragraph">Depois de ter sua conta do Site de Suporte NetApp , associe a conta ao seu login do Console NetApp concluindo as etapas em<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="90f1d591a5568f9514509a22083b5b1a" category="paragraph">Monitore e acompanhe a execução de operações de carga de trabalho e monitore o progresso das tarefas com o Tracker no NetApp Workload Factory.</block>
+  <block id="6e6b128e6a9a02188dabea0077b4ad0b" category="paragraph">O NetApp Workload Factory fornece o Tracker, um recurso de monitoramento, para que você possa monitorar e rastrear o progresso e o status das operações de carga de trabalho, revisar detalhes de tarefas e subtarefas de operação e diagnosticar quaisquer problemas ou falhas.</block>
+  <block id="3681c25085cfd3a56604857cdcbcb245" category="paragraph">Rastreie e monitore operações no console do Workload Factory com o Tracker.</block>
+  <block id="736c64c4ed0856a8d9aa760b894aef84" category="list-text">No menu de carga de trabalho, selecione *Administração* e depois selecione *Rastreador*.</block>
+  <block id="2ba65fb298b74a9b72d949d4fe3479b3" category="list-text">No Tracker, use os filtros ou pesquise para restringir os resultados dos trabalhos.  Você também pode baixar um relatório de empregos.</block>
+  <block id="bd56fc255ce900fc195c9bc0d7ed20c0" category="list-text">Selecione o menu de ações e depois selecione *Exibir solicitação de API*.</block>
+  <block id="9d506eb8fb5e05c2467a690e5e727cd8" category="list-text">Selecione o menu de ações e depois selecione *Repetir*.</block>
+  <block id="0270fd4391a6b334aa157faf0a6b7304" category="list-text">Selecione o menu de ações e depois selecione *Editar e tentar novamente*.</block>
+  <block id="42a584f66b7330d3e570bd80fda469ec" category="sidebar">O NetApp Workload Factory é uma poderosa plataforma de gerenciamento de ciclo de vida projetada para ajudar você a otimizar suas cargas de trabalho usando o Amazon FSx for NetApp ONTAP.  Navegue pela documentação por tipo de carga de trabalho ou use a barra de pesquisa para encontrar conteúdo em qualquer lugar nos documentos da fábrica de carga de trabalho.</block>
+  <block id="ba6dc48c42def59e6936ffe843e2d781" category="sidebar">Documentação do NetApp Workload Factory</block>
+  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">Aprenda como começar a usar o Workload Factory, administrar credenciais e usar o Codebox para automação.</block>
+  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">Saiba o que há de novo em toda a Workload Factory.</block>
+  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Administre programaticamente os recursos do Workload Factory.</block>
+  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Toda a documentação do Workload Factory</block>
 </blocks>
