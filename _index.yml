@@ -53,12 +53,6 @@ product-family:
       para otimização usando o FSX for ONTAP sistemas de arquivos como datastores
       externos.
     tags: all,workload
-  - title: GenAI
-    icon: "./media/icon-ai.png"
-    url: "../workload-genai/index.html"
-    summary: Integre dados de seus sistemas de arquivos FSX for ONTAP com suas plataformas
-      MLOps e modelos de base GenAI para criar chatbots funcionais.
-    tags: all,workload
   - title: Armazenamento
     icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"

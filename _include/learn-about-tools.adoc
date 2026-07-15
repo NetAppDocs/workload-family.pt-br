@@ -4,6 +4,7 @@
 
 
 
+[[tools-to-use-netapp-workload-factory]]
 == Ferramentas para usar o NetApp Workload Factory
 
 Você pode usar o NetApp Workload Factory com as seguintes ferramentas:
