@@ -25,42 +25,35 @@ product-family:
     tags: storage
   tiles:
   - title: Configuração e administração
-    icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
     summary: Aprenda como começar a usar o Workload Factory, administrar credenciais
       e usar o Codebox para automação.
     tags: all,admin
   - title: Notas de lançamento
-    icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
     summary: Saiba o que há de novo em toda a Workload Factory.
     tags: all
   - title: API
-    icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
     summary: Administre programaticamente os recursos do Workload Factory.
     tags: all,api
   - title: EDA
-    icon: "./media/icon-builders.png"
     url: "../workload-eda/index.html"
     summary: Otimize o desempenho e os custos do FSx para ONTAP em vários sistemas
       de arquivos com gerenciamento de armazenamento automatizado.
     tags: all,workload
   - title: Bancos de dados
-    icon: "./media/icon-database.png"
     url: "../workload-databases/index.html"
     summary: Implante bancos de dados de ponta a ponta com as melhores práticas incorporadas
       para otimização usando o FSX for ONTAP sistemas de arquivos como datastores
       externos.
     tags: all,workload
   - title: Armazenamento
-    icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"
     summary: Implante e gerencie os sistemas de arquivos FSX for ONTAP para usar todos
       os recursos do ONTAP como um serviço nativo gerenciado pela AWS.
     tags: all,storage
   - title: VMware
-    icon: "./media/icon-vmware.png"
     url: "../workload-vmware/index.html"
     summary: Simplifique as migrações de ambientes vSphere locais para o VMware Cloud
       na AWS e implemente sistemas de arquivos FSX para ONTAP personalizados como
